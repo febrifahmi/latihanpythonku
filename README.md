@@ -1,0 +1,2 @@
+# latihanpythonku
+Latihan python 
